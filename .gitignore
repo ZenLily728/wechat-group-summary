@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.secure_tmp/
+outputs/
+dist/
+.DS_Store
